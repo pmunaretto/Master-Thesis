@@ -1,0 +1,26 @@
+,"{'hidden_activation': 'relu', 'hidden_neurons': [2, 1, 1, 2]}"
+best_classifier_training_time,172.549235554
+best_classifier_inference_time,20.551281765000567
+best_classifier_recall,0.029574861367837338
+best_classifier_precision,0.003205128205128205
+best_classifier_f1,0.0057834809325862995
+best_classifier_TN,524218
+best_classifier_FP,4976
+best_classifier_FN,525
+best_classifier_TP,16
+best_classifier_auc,0.9091700134191447
+best_classifier_p_auc_10,0.6890924382973836
+best_classifier_p_auc_20,0.8088742723579214
+best_classifier_p_auc_30,0.8596511662659156
+training_time_avg,82.61349439080004
+inference_time_avg,18.39822093620005
+auc_avg,0.9091700134191447
+auc_std,0.0
+p_auc_10_avg,0.6890924382973836
+p_auc_10_std,0.0
+p_auc_20_avg,0.8088742723579214
+p_auc_20_std,0.0
+p_auc_30_avg,0.8596511662659158
+p_auc_30_std,1.1102230246251565e-16
+recall_avg,0.029574861367837334
+recall_std,3.469446951953614e-18

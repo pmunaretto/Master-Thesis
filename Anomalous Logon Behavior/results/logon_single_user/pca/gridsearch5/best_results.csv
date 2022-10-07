@@ -1,0 +1,26 @@
+,"{'n_components': 4, 'standardization': False, 'svd_solver': 'full', 'weighted': True, 'whiten': True}"
+best_classifier_training_time,13.623696003000077
+best_classifier_inference_time,5.191148530018836
+best_classifier_recall,0.030303030303030304
+best_classifier_precision,0.0007019185774450163
+best_classifier_f1,0.001372055796935742
+best_classifier_TN,846119
+best_classifier_FP,8542
+best_classifier_FN,192
+best_classifier_TP,6
+best_classifier_auc,0.5262425480081954
+best_classifier_p_auc_10,0.5481811737933971
+best_classifier_p_auc_20,0.5630543607046377
+best_classifier_p_auc_30,0.5557550845030841
+training_time_avg,13.623696003000077
+inference_time_avg,5.191148530018836
+auc_avg,0.5262425480081954
+auc_std,0.0
+p_auc_10_avg,0.5481811737933971
+p_auc_10_std,0.0
+p_auc_20_avg,0.5630543607046377
+p_auc_20_std,0.0
+p_auc_30_avg,0.5557550845030841
+p_auc_30_std,0.0
+recall_avg,0.030303030303030304
+recall_std,0.0

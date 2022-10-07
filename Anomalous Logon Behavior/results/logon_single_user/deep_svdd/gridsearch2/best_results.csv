@@ -1,0 +1,26 @@
+,"{'hidden_activation': 'sigmoid', 'hidden_neurons': [2, 1], 'use_ae': False}"
+best_classifier_training_time,2777.2779651739984
+best_classifier_inference_time,82.92109011598893
+best_classifier_recall,0.010101010101010102
+best_classifier_precision,0.0002332089552238806
+best_classifier_f1,0.00045589240939138365
+best_classifier_TN,846087
+best_classifier_FP,8574
+best_classifier_FN,196
+best_classifier_TP,2
+best_classifier_auc,0.5960221347848723
+best_classifier_p_auc_10,0.5191931809349648
+best_classifier_p_auc_20,0.5441488233313492
+best_classifier_p_auc_30,0.5631746162155984
+training_time_avg,2777.2779651739984
+inference_time_avg,82.92109011598893
+auc_avg,0.5960221347848723
+auc_std,0.0
+p_auc_10_avg,0.5191931809349648
+p_auc_10_std,0.0
+p_auc_20_avg,0.5441488233313492
+p_auc_20_std,0.0
+p_auc_30_avg,0.5631746162155984
+p_auc_30_std,0.0
+recall_avg,0.010101010101010102
+recall_std,0.0

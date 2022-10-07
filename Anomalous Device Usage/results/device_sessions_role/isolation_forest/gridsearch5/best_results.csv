@@ -1,0 +1,26 @@
+,"{'max_samples': 1024, 'n_estimators': 100}"
+best_classifier_training_time,14.774093819998143
+best_classifier_inference_time,3.63636065800074
+best_classifier_recall,0.030131826741996232
+best_classifier_precision,0.017467248908296942
+best_classifier_f1,0.0221147201105736
+best_classifier_TN,528304
+best_classifier_FP,900
+best_classifier_FN,515
+best_classifier_TP,16
+best_classifier_auc,0.13140838635223615
+best_classifier_p_auc_10,0.48938536338085287
+best_classifier_p_auc_20,0.46110111587933794
+best_classifier_p_auc_30,0.4294305576289437
+training_time_avg,14.609144523800023
+inference_time_avg,3.515361088799909
+auc_avg,0.12845755401022926
+auc_std,0.001964450708552294
+p_auc_10_avg,0.48839890473160014
+p_auc_10_std,0.0010752520078953249
+p_auc_20_avg,0.4600573629335171
+p_auc_20_std,0.001140543057964098
+p_auc_30_avg,0.428324528261036
+p_auc_30_std,0.0012095955280483598
+recall_avg,0.028248587570621465
+recall_std,0.002062985150678592

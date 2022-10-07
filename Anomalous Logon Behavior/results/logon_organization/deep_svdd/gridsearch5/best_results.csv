@@ -1,0 +1,26 @@
+,"{'hidden_activation': 'tanh', 'hidden_neurons': [2, 1], 'use_ae': False}"
+best_classifier_training_time,57.173644681999576
+best_classifier_inference_time,41.2542330100041
+best_classifier_recall,0.0
+best_classifier_precision,0.0
+best_classifier_f1,0.0
+best_classifier_TN,854661
+best_classifier_FP,0
+best_classifier_FN,198
+best_classifier_TP,0
+best_classifier_auc,0.5562696995379076
+best_classifier_p_auc_10,0.5128885123618278
+best_classifier_p_auc_20,0.5209113297572674
+best_classifier_p_auc_30,0.5353543431662421
+training_time_avg,94.27651752880192
+inference_time_avg,30.147333443400566
+auc_avg,0.5406707939336666
+auc_std,0.06563293472900895
+p_auc_10_avg,0.5079026133184859
+p_auc_10_std,0.007732253255782042
+p_auc_20_avg,0.5114124680501773
+p_auc_20_std,0.019166918274398863
+p_auc_30_avg,0.5167999122558459
+p_auc_30_std,0.028159225682928654
+recall_avg,0.0
+recall_std,0.0
